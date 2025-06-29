@@ -13,8 +13,7 @@ export default function Hero() {
         >
             {/* Illustration */}
             <motion.img
-                src="https://raw.githubusercontent.com/openpeeps/openpeeps/master/patterns/peep-56.svg"
-                alt="Open Peeps Dev"
+                src="/heia.png"
                 className="w-40 sm:w-48 h-auto mb-6"
                 initial={{ scale: 0.9, opacity: 0 }}
                 animate={{ scale: 1, opacity: 1 }}
